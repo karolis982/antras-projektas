@@ -1,0 +1,1 @@
+# Projektas ikeltas pasinaudojant terminalo komanda
